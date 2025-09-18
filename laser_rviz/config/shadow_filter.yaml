@@ -1,0 +1,10 @@
+/**:
+  ros__parameters:
+    filter1:
+      name: shadows
+      type: laser_filters/ScanShadowsFilter
+      params:
+        min_angle: 5.
+        max_angle: 178.
+        neighbors: 20
+        window: 1
