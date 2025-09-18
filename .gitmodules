@@ -1,3 +1,6 @@
 [submodule "docker_template"]
 	path = docker_template
 	url = https://github.com/ycpss91255/docker_template.git
+[submodule "urg_node2"]
+	path = urg_node2
+	url = git@github.com:Hokuyo-aut/urg_node2.git
